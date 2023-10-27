@@ -1,6 +1,6 @@
 # Descrição Geral
 Utilizei o codigo antigo do formcadastro e adicionei no novo repositorio, criei um repositorio no gihthub para esse projeto, estilizei o css, alterei o cep para ele funcionar, adicionei mais campos de preenchimento, como informaçoes pessoais, pesquisei 3 sites para compara-los através de pesquisas. Ele tambem é responsivo se adapta a qualquer aparelho.  
-<img src="" alt="">
+<img src="Gravando-2023-10-27-102712cadastro.gif" alt="">
 
 ## Fontes consultadas 
 * Tems
